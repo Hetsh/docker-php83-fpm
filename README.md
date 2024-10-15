@@ -1,5 +1,5 @@
-# PHP8.2-FPM
-Super small and easy to setup PHP8.2 FastCGI Process Manager.
+# PHP8.3-FPM
+Super small and easy to setup PHP8.3 FastCGI Process Manager.
 
 ## Running the server
 ```bash
