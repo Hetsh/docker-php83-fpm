@@ -1,7 +1,7 @@
 FROM amd64/alpine:20240807
 RUN apk add --no-cache \
-        php83=8.3.12-r0 \
-        php83-fpm=8.3.12-r0
+        php83=8.3.13-r0 \
+        php83-fpm=8.3.13-r0
 
 # App user
 ARG APP_USER="http"
