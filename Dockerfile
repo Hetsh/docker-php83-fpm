@@ -1,4 +1,4 @@
-FROM amd64/alpine:20240807
+FROM amd64/alpine:20240923
 RUN apk add --no-cache \
         php83=8.3.14-r0 \
         php83-fpm=8.3.14-r0
